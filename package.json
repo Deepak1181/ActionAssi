@@ -1,6 +1,7 @@
 {
   "name": "my-action",
   "version": "0.1.0",
+  "homepage": "https://dkp041297.github.io/ActionAssi/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.4.6",
